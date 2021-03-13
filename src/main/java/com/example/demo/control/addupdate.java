@@ -7,5 +7,6 @@ public class addupdate {
     }
     public void method(){
         System.out.println("kkk");
+        int aa;
     }
 }
