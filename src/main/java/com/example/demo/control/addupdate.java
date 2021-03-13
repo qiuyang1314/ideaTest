@@ -10,5 +10,6 @@ public class addupdate {
         int aa;
         int mm;
         int ccc;
+        String KKKK;
     }
 }
