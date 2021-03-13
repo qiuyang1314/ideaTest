@@ -5,4 +5,7 @@ public class addupdate {
         System.out.println("d222");
         System.out.println("123");
     }
+    public void method(){
+        System.out.println("kkk");
+    }
 }
