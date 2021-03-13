@@ -11,5 +11,6 @@ public class addupdate {
         int mm;
         int ccc;
         String KKKK;
+        int ll;
     }
 }
