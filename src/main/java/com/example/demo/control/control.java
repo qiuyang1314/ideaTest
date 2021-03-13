@@ -13,6 +13,7 @@ public class control {
     @RequestMapping(value="/sayhello")
     public String index() {
         System.out.println("23454");
+        int gg;
         return "Hello World";
     }
     public void method() {

@@ -9,5 +9,6 @@ public class addupdate {
         System.out.println("kkk");
         int aa;
         int mm;
+        int ccc;
     }
 }
