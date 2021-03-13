@@ -14,6 +14,7 @@ public class control {
     public String index() {
         System.out.println("23454");
         int gg;
+        int ll;
         return "Hello World";
     }
     public void method() {
